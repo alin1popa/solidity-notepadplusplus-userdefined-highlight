@@ -1,5 +1,5 @@
 # Notepad++ user-defined highlight
-# Ethereum Solidity syntax
+# Ethereum Solidity Language
 
 ## How to import
 1. Download the [Solidity XML](Solidity.xml) file
