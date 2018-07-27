@@ -1,4 +1,4 @@
-# Notepad++ user-defined highlight
+# Notepad++ user-defined syntax highlight
 # Ethereum Solidity Language
 
 ## How to import
