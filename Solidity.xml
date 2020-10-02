@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">pragma contract library is import</Keywords>
+            <Keywords name="Keywords1">pragma contract library is import interface</Keywords>
             <Keywords name="Keywords2">function return modifier event emit while for do break continue if else false true this new delete using assembly constructor</Keywords>
             <Keywords name="Keywords3">internal external pure constant view payable returns storage memory calldata public private indexed</Keywords>
             <Keywords name="Keywords4">bool int int8 int16 int32 int64 int128 int256 uint uint8 uint16 uint32 uint64 uint128 uint256 address mapping string struct enum</Keywords>
